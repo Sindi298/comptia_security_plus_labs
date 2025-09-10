@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CompTIA Security+ Labs/Domain 1 – General Security Concepts/Lab 1_Assisted Lab_ Configuration Gap Analysis.md",
+                "file": "CompTIA Security+ Labs/Security+ Labs Overview.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lab 1_Assisted Lab_ Configuration Gap Analysis"
+              "title": "Security+ Labs Overview"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 384.5
+    "width": 365.5
   },
   "right": {
     "id": "be8859918c0307e9",
@@ -172,8 +172,35 @@
   },
   "active": "0791998c165bf833",
   "lastOpenFiles": [
-    "Templates/Lab Template.md",
-    "CompTIA Security+ Labs/Domain 1 – General Security Concepts/Lab 1_Assisted Lab_ Configuration Gap Analysis.md",
+    "LetsDefend Career Switch to Cybersecurity Notes/Network Fundamentals Notes/1.Types of Networks.md",
+    "Intro to Cybersecurity/Cybersecurity Semester 1 - How to start.md",
+    "LetsDefend Career Switch to Cybersecurity Notes/Network Fundamentals Notes/12.OSI Reference Model.md",
+    "LetsDefend Career Switch to Cybersecurity Notes/Network Fundamentals Notes/8.Basic Concepts.md",
+    "LetsDefend Career Switch to Cybersecurity Notes/Network Fundamentals Notes/7.Network Address Translation (NAT).md",
+    "LetsDefend Career Switch to Cybersecurity Notes/Network Fundamentals Notes/6.IP Addressing Mechanism.md",
+    "LetsDefend Career Switch to Cybersecurity Notes/Network Fundamentals Notes/17.Routing.md",
+    "LetsDefend Career Switch to Cybersecurity Notes/Network Fundamentals Notes/15.Internet Protocol(IP).md",
+    "LetsDefend Career Switch to Cybersecurity Notes/Explanations/What is Routing.md",
+    "LetsDefend Career Switch to Cybersecurity Notes/Network Fundamentals Notes/16.Internet Control Message Protocol (ICMP).md",
+    "LetsDefend Career Switch to Cybersecurity Notes/Explanations/ICMP Simply Explained.md",
+    "LetsDefend Career Switch to Cybersecurity Notes/Explanations/IP Protocol Simply Explained.md",
+    "LetsDefend Career Switch to Cybersecurity Notes/Network Fundamentals Notes/14.Address Resolution Protocol (ARP).md",
+    "LetsDefend Career Switch to Cybersecurity Notes/Explanations/Address Resolution Protocol Simply Explained.md",
+    "LetsDefend Career Switch to Cybersecurity Notes/Explanations/Media Access Control(MAC) Address Simply explained.md",
+    "LetsDefend Career Switch to Cybersecurity Notes/Network Fundamentals Notes/13.Media Access Control(MAC) Address.md",
+    "().md",
+    "10-09-2025.md",
+    "LetsDefend Career Switch to Cybersecurity Notes/Network Fundamentals Notes/3.OSI Reference Model.md",
+    "LetsDefend Career Switch to Cybersecurity Notes/Explanations/OSI Model Simply Explained.md",
+    "LetsDefend Career Switch to Cybersecurity Notes/Network Fundamentals Notes/11.Network Protocols.md",
+    "LetsDefend Career Switch to Cybersecurity Notes/Network Fundamentals Notes/10.Virtual Private Network(VPN).md",
+    "LetsDefend Career Switch to Cybersecurity Notes/Network Fundamentals Notes/9.Virtual Local Area Network (VLAN).md",
+    "LetsDefend Career Switch to Cybersecurity Notes/Explanations/How Subnet Masks are used to check if two devices are on the same network.md",
+    "LetsDefend Career Switch to Cybersecurity Notes/Explanations/Subnet Mask Simply Explained.md",
+    "LetsDefend Career Switch to Cybersecurity Notes/Explanations/Collision Domain Simply Explained.md",
+    "LetsDefend Career Switch to Cybersecurity Notes/Explanations",
+    "LetsDefend Career Switch to Cybersecurity Notes/Network Fundamentals Labs",
+    "LetsDefend Career Switch to Cybersecurity Notes/Network Fundamentals Notes",
     "Pasted image 20250905191919.png",
     "lab 01- Gap Analysis.png",
     "Map of Content.base",
@@ -185,17 +212,12 @@
     "Pasted image 20250905185316.png",
     "Pasted image 20250905185138.png",
     "Pasted image 20250905184659.png",
-    "CompTIA Security+ Labs/Security+ Labs Overview.md",
     "Templates",
     "Domain 1 – STUDY NOTES",
     "CompTIA Security+ Labs/Domain 1 – General Security Concepts",
-    "Untitled.md",
     "Untitled.canvas",
-    "Intro to Cybersecurity/Cybersecurity Semester 1 - How to start.md",
     "LetsDefend SOC Analyst Notes + Labs",
-    "LetsDefend Career Switch to Cybersecurity Notes + Labs",
-    "CompTIA Security+ Labs",
-    "2025-09-04.md",
-    "Intro to Cybersecurity"
+    "LetsDefend Career Switch to Cybersecurity Notes",
+    "CompTIA Security+ Labs"
   ]
 }
